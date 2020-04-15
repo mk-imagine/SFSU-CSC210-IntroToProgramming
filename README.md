@@ -1,2 +1,11 @@
-# SFSU CSC210 Intro to Java
-## Introduction to Java
+# CSC-210 Intro to Java
+Introductory programming course in Java
+
+Assignments:
+Body Mass Index
+Cell Automaton
+Check File Size
+Conway Game of Life
+Dictionary File Processor
+Vampire Hunt Game
+Vampire Hunt Game V2
