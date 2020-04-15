@@ -1,7 +1,7 @@
 # CSC-210 Intro to Java
 Introductory programming course in Java
 
-Assignments:\\
+Assignments:<br>
 Body Mass Index
 Cell Automaton
 Check File Size
