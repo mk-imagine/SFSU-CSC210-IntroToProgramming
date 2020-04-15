@@ -2,10 +2,10 @@
 Introductory programming course in Java
 
 Assignments:<br>
-Body Mass Index
-Cell Automaton
-Check File Size
-Conway Game of Life
-Dictionary File Processor
-Vampire Hunt Game
-Vampire Hunt Game V2
+1. Body Mass Index
+2. Cell Automaton
+3. Check File Size
+4. Conway Game of Life
+5. Dictionary File Processor
+6. Vampire Hunt Game
+7. Vampire Hunt Game V2
