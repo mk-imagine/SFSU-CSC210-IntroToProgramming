@@ -1,7 +1,7 @@
 # CSC-210 Intro to Java
 Introductory programming course in Java
 
-Assignments:
+### Assignments:
 1. Body Mass Index
 2. Cell Automaton
 3. Check File Size
